@@ -1,5 +1,5 @@
 import React from 'react';
-import { Switch, Route, Redirect } from 'react-router-dom';
+import { BrowserRouter, Switch, Route, Redirect } from 'react-router-dom';
 import Booking from './Booking';
 
 const School = React.lazy(() => import('./School'));
@@ -12,9 +12,12 @@ const Main = () => (
 );
 
 export const Routes = () => (
-  <Switch>
-    <Route exact path="/" component={Main} />
-    <Route exact path="/booking/:id" component={Booking} />
-    <Route exact path="/about" component={About} />
-  </Switch>
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <Switch>
+      <Route exact path="/" component={Main} />
+      <Route exact path="/booking/:id" component={Booking} />
+      <Route exact path="/about" component={About} />
+      <Redirect to="/" />
+    </Switch>
+  </BrowserRouter>
 );
