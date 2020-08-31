@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4adedb3bd704c3470cb5ba164f87801e",
+    "revision": "619838532b9c6bea3cb91664860b1dce",
     "url": "/SnowboardSchoolApp/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SnowboardSchoolApp/static/css/4.72d67c1c.chunk.css"
   },
   {
-    "revision": "081b90cc920e22a91a8c",
+    "revision": "4fd38a2cc9074197cea4",
     "url": "/SnowboardSchoolApp/static/css/main.bf42586e.chunk.css"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SnowboardSchoolApp/static/js/5.659bc88a.chunk.js"
   },
   {
-    "revision": "081b90cc920e22a91a8c",
-    "url": "/SnowboardSchoolApp/static/js/main.dbd6cf9f.chunk.js"
+    "revision": "4fd38a2cc9074197cea4",
+    "url": "/SnowboardSchoolApp/static/js/main.1e8f933a.chunk.js"
   },
   {
     "revision": "b7e90d4d34732fe88891",
