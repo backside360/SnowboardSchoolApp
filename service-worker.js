@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SnowboardSchoolApp/precache-manifest.0f002e98eba77082066f3e583b4b5335.js"
+  "/SnowboardSchoolApp/precache-manifest.ec7ed8efdc7eee821db88dc570a6a172.js"
 );
 
 self.addEventListener('message', (event) => {
