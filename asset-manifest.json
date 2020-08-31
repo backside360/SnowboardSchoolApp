@@ -1,33 +1,33 @@
 {
   "files": {
     "main.css": "/SnowboardSchoolApp/static/css/main.bf42586e.chunk.css",
-    "main.js": "/SnowboardSchoolApp/static/js/main.25e4740c.chunk.js",
-    "main.js.map": "/SnowboardSchoolApp/static/js/main.25e4740c.chunk.js.map",
-    "runtime-main.js": "/SnowboardSchoolApp/static/js/runtime-main.2f7edb54.js",
-    "runtime-main.js.map": "/SnowboardSchoolApp/static/js/runtime-main.2f7edb54.js.map",
+    "main.js": "/SnowboardSchoolApp/static/js/main.870ea27c.chunk.js",
+    "main.js.map": "/SnowboardSchoolApp/static/js/main.870ea27c.chunk.js.map",
+    "runtime-main.js": "/SnowboardSchoolApp/static/js/runtime-main.ed6c3ffb.js",
+    "runtime-main.js.map": "/SnowboardSchoolApp/static/js/runtime-main.ed6c3ffb.js.map",
     "static/css/2.847e01e0.chunk.css": "/SnowboardSchoolApp/static/css/2.847e01e0.chunk.css",
-    "static/js/2.6466d695.chunk.js": "/SnowboardSchoolApp/static/js/2.6466d695.chunk.js",
-    "static/js/2.6466d695.chunk.js.map": "/SnowboardSchoolApp/static/js/2.6466d695.chunk.js.map",
+    "static/js/2.c5098b90.chunk.js": "/SnowboardSchoolApp/static/js/2.c5098b90.chunk.js",
+    "static/js/2.c5098b90.chunk.js.map": "/SnowboardSchoolApp/static/js/2.c5098b90.chunk.js.map",
     "static/js/3.fea7da24.chunk.js": "/SnowboardSchoolApp/static/js/3.fea7da24.chunk.js",
     "static/js/3.fea7da24.chunk.js.map": "/SnowboardSchoolApp/static/js/3.fea7da24.chunk.js.map",
     "static/css/4.72d67c1c.chunk.css": "/SnowboardSchoolApp/static/css/4.72d67c1c.chunk.css",
-    "static/js/4.b80b5cb5.chunk.js": "/SnowboardSchoolApp/static/js/4.b80b5cb5.chunk.js",
-    "static/js/4.b80b5cb5.chunk.js.map": "/SnowboardSchoolApp/static/js/4.b80b5cb5.chunk.js.map",
+    "static/js/4.fac64cc8.chunk.js": "/SnowboardSchoolApp/static/js/4.fac64cc8.chunk.js",
+    "static/js/4.fac64cc8.chunk.js.map": "/SnowboardSchoolApp/static/js/4.fac64cc8.chunk.js.map",
     "static/js/5.659bc88a.chunk.js": "/SnowboardSchoolApp/static/js/5.659bc88a.chunk.js",
     "static/js/5.659bc88a.chunk.js.map": "/SnowboardSchoolApp/static/js/5.659bc88a.chunk.js.map",
     "index.html": "/SnowboardSchoolApp/index.html",
-    "precache-manifest.35727537add62b238d7a906d65c04f9f.js": "/SnowboardSchoolApp/precache-manifest.35727537add62b238d7a906d65c04f9f.js",
+    "precache-manifest.9aa23ba735738bdfad69d3442363b86e.js": "/SnowboardSchoolApp/precache-manifest.9aa23ba735738bdfad69d3442363b86e.js",
     "service-worker.js": "/SnowboardSchoolApp/service-worker.js",
     "static/css/2.847e01e0.chunk.css.map": "/SnowboardSchoolApp/static/css/2.847e01e0.chunk.css.map",
     "static/css/4.72d67c1c.chunk.css.map": "/SnowboardSchoolApp/static/css/4.72d67c1c.chunk.css.map",
     "static/css/main.bf42586e.chunk.css.map": "/SnowboardSchoolApp/static/css/main.bf42586e.chunk.css.map",
-    "static/js/2.6466d695.chunk.js.LICENSE.txt": "/SnowboardSchoolApp/static/js/2.6466d695.chunk.js.LICENSE.txt"
+    "static/js/2.c5098b90.chunk.js.LICENSE.txt": "/SnowboardSchoolApp/static/js/2.c5098b90.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2f7edb54.js",
+    "static/js/runtime-main.ed6c3ffb.js",
     "static/css/2.847e01e0.chunk.css",
-    "static/js/2.6466d695.chunk.js",
+    "static/js/2.c5098b90.chunk.js",
     "static/css/main.bf42586e.chunk.css",
-    "static/js/main.25e4740c.chunk.js"
+    "static/js/main.870ea27c.chunk.js"
   ]
 }
