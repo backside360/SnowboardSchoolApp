@@ -16,6 +16,5 @@ export const Routes = () => (
     <Route exact path="/" component={Main} />
     <Route exact path="/booking/:id" component={Booking} />
     <Route exact path="/about" component={About} />
-    <Redirect to="/" />
   </Switch>
 );
