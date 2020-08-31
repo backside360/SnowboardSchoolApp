@@ -1,33 +1,33 @@
 {
   "files": {
     "main.css": "/sschool1/static/css/main.bf42586e.chunk.css",
-    "main.js": "/sschool1/static/js/main.4c44ee8b.chunk.js",
-    "main.js.map": "/sschool1/static/js/main.4c44ee8b.chunk.js.map",
-    "runtime-main.js": "/sschool1/static/js/runtime-main.c8e22322.js",
-    "runtime-main.js.map": "/sschool1/static/js/runtime-main.c8e22322.js.map",
+    "main.js": "/sschool1/static/js/main.40e31919.chunk.js",
+    "main.js.map": "/sschool1/static/js/main.40e31919.chunk.js.map",
+    "runtime-main.js": "/sschool1/static/js/runtime-main.14b8f11d.js",
+    "runtime-main.js.map": "/sschool1/static/js/runtime-main.14b8f11d.js.map",
     "static/css/2.847e01e0.chunk.css": "/sschool1/static/css/2.847e01e0.chunk.css",
-    "static/js/2.aa79b879.chunk.js": "/sschool1/static/js/2.aa79b879.chunk.js",
-    "static/js/2.aa79b879.chunk.js.map": "/sschool1/static/js/2.aa79b879.chunk.js.map",
+    "static/js/2.9e5945ce.chunk.js": "/sschool1/static/js/2.9e5945ce.chunk.js",
+    "static/js/2.9e5945ce.chunk.js.map": "/sschool1/static/js/2.9e5945ce.chunk.js.map",
     "static/js/3.fea7da24.chunk.js": "/sschool1/static/js/3.fea7da24.chunk.js",
     "static/js/3.fea7da24.chunk.js.map": "/sschool1/static/js/3.fea7da24.chunk.js.map",
     "static/css/4.72d67c1c.chunk.css": "/sschool1/static/css/4.72d67c1c.chunk.css",
-    "static/js/4.b80b5cb5.chunk.js": "/sschool1/static/js/4.b80b5cb5.chunk.js",
-    "static/js/4.b80b5cb5.chunk.js.map": "/sschool1/static/js/4.b80b5cb5.chunk.js.map",
+    "static/js/4.fac64cc8.chunk.js": "/sschool1/static/js/4.fac64cc8.chunk.js",
+    "static/js/4.fac64cc8.chunk.js.map": "/sschool1/static/js/4.fac64cc8.chunk.js.map",
     "static/js/5.659bc88a.chunk.js": "/sschool1/static/js/5.659bc88a.chunk.js",
     "static/js/5.659bc88a.chunk.js.map": "/sschool1/static/js/5.659bc88a.chunk.js.map",
     "index.html": "/sschool1/index.html",
-    "precache-manifest.5399cb6b68888329ad29b4a411956b82.js": "/sschool1/precache-manifest.5399cb6b68888329ad29b4a411956b82.js",
+    "precache-manifest.02108af8b61911e1167b7240d2e9a6cc.js": "/sschool1/precache-manifest.02108af8b61911e1167b7240d2e9a6cc.js",
     "service-worker.js": "/sschool1/service-worker.js",
     "static/css/2.847e01e0.chunk.css.map": "/sschool1/static/css/2.847e01e0.chunk.css.map",
     "static/css/4.72d67c1c.chunk.css.map": "/sschool1/static/css/4.72d67c1c.chunk.css.map",
     "static/css/main.bf42586e.chunk.css.map": "/sschool1/static/css/main.bf42586e.chunk.css.map",
-    "static/js/2.aa79b879.chunk.js.LICENSE.txt": "/sschool1/static/js/2.aa79b879.chunk.js.LICENSE.txt"
+    "static/js/2.9e5945ce.chunk.js.LICENSE.txt": "/sschool1/static/js/2.9e5945ce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8e22322.js",
+    "static/js/runtime-main.14b8f11d.js",
     "static/css/2.847e01e0.chunk.css",
-    "static/js/2.aa79b879.chunk.js",
+    "static/js/2.9e5945ce.chunk.js",
     "static/css/main.bf42586e.chunk.css",
-    "static/js/main.4c44ee8b.chunk.js"
+    "static/js/main.40e31919.chunk.js"
   ]
 }
